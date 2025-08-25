@@ -1,1 +1,4 @@
-
+/* style.css - custom tambahan (opsional) */
+body {
+  scroll-behavior: smooth;
+}
